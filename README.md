@@ -2,7 +2,7 @@
 This project uses an advanced prompt framework inspired by real-world performance marketing strategies.
 # 🚀 AI Website & Marketing Project
 
-## 📌 Project Overview
+## 📌 Project Overview 
 This project demonstrates how AI can be used to create both:
 - A complete website copy
 - High-converting marketing content
