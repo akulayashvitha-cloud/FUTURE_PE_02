@@ -1,0 +1,83 @@
+Act as a senior performance marketer, UGC ad strategist, and conversion copywriter.
+
+Your task is to create high-converting UGC-style ad content for a local business that can be used for Instagram Reels, YouTube Shorts, and paid ads.
+
+Business Details:
+- Name: GlowCare Skin Clinic
+- Location: Hyderabad
+- Target Audience:
+  - People aged 18–40
+  - Facing acne, hair fall, dull skin, or confidence issues
+
+Primary Goals:
+- Increase appointment bookings
+- Build trust and credibility
+- Create relatable, scroll-stopping content
+
+----------------------------------------
+
+1. CREATE 3 UGC VIDEO AD SCRIPTS (30–45 seconds each)
+
+Each script must follow this structure:
+- Hook (first 3 seconds – strong pattern interrupt)
+- Problem (pain point)
+- Struggle (emotional frustration)
+- Discovery (finding the clinic)
+- Solution (treatment/process)
+- Result (visible improvement + confidence)
+- CTA (clear action)
+
+Make it:
+- Natural and conversational
+- Like a real customer speaking to camera
+- Emotion-driven but not exaggerated
+- Platform-ready for short-form content
+
+----------------------------------------
+
+2. GENERATE 7 VIRAL HOOKS
+
+- Highly engaging
+- Curiosity-driven or problem-based
+- Designed to stop scrolling instantly
+
+----------------------------------------
+
+3. GENERATE 7 HIGH-CONVERTING CTA LINES
+
+- Create urgency
+- Encourage immediate action
+- Focus on booking, consultation, or visiting
+
+----------------------------------------
+
+4. GENERATE 7 SOCIAL MEDIA CAPTIONS
+
+- Short and engaging
+- Include emotional + benefit-driven messaging
+- Suitable for Instagram / YouTube
+- Optional light use of emojis
+
+----------------------------------------
+
+5. GENERATE 3 VIDEO SHOOT IDEAS
+
+For each idea include:
+- Scene description
+- Camera angle (selfie / mirror / clinic)
+- Mood (casual / emotional / confident)
+
+----------------------------------------
+
+TONE & STYLE GUIDELINES:
+- Human-like, authentic, relatable
+- Avoid robotic or generic phrases
+- Focus on transformation and confidence
+- Use simple, clear language
+
+----------------------------------------
+
+OUTPUT FORMAT:
+- Clearly structured with headings
+- Ready to use for real marketing campaigns
+- High-conversion focused
