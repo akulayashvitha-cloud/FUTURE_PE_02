@@ -1,4 +1,5 @@
 # FUTURE_PE_02
+This project uses an advanced prompt framework inspired by real-world performance marketing strategies.
 # 🚀 AI Website & Marketing Project
 
 ## 📌 Project Overview
